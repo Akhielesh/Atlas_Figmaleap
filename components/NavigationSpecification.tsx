@@ -903,7 +903,7 @@ function FeedbackSpecification() {
                 </li>
                 <li className="flex items-start gap-2 text-sm">
                   <Check className="icon-xs text-success mt-0.5 flex-shrink-0" />
-                  Loading states for any action taking >200ms
+                  Loading states for any action taking &gt;200ms
                 </li>
                 <li className="flex items-start gap-2 text-sm">
                   <Check className="icon-xs text-success mt-0.5 flex-shrink-0" />

@@ -42,7 +42,8 @@
     "node_modules",
     "dist",
     "build",
-    ".git"
+    ".git",
+    "vite.config.ts"
   ],
   "references": [{ "path": "./tsconfig.node.json" }]
 }

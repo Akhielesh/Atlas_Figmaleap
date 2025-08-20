@@ -899,7 +899,7 @@ function ResponsiveSpecification() {
               <h4 className="font-medium mb-3">Search Layout (3-Panel)</h4>
               <div className="grid gap-4">
                 <div className="p-4 border rounded-lg">
-                  <h5 className="font-medium mb-2">Mobile (< 640px)</h5>
+                  <h5 className="font-medium mb-2">Mobile (&lt; 640px)</h5>
                   <ul className="text-sm text-muted-foreground space-y-1">
                     <li>• Single column layout</li>
                     <li>• Filters in bottom sheet overlay</li>
@@ -919,7 +919,7 @@ function ResponsiveSpecification() {
                 </div>
                 
                 <div className="p-4 border rounded-lg">
-                  <h5 className="font-medium mb-2">Desktop (≥ 1024px)</h5>
+                  <h5 className="font-medium mb-2">Desktop (&ge; 1024px)</h5>
                   <ul className="text-sm text-muted-foreground space-y-1">
                     <li>• Three-column: Filters + Results + Preview</li>
                     <li>• Fixed sidebar (280px width)</li>
